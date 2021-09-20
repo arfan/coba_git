@@ -2,4 +2,4 @@
 
 ## Hello my name is arfan
 
-## Hello my name is Azvya
+## Hello my name is azvya
