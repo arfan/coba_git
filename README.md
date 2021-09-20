@@ -12,4 +12,4 @@
 ## Hello, Im Wahyu
 now, i wanna try to learn basic Git & Github
 
-## Hello, my name is ridho
+## Hello, my name is Ridho
